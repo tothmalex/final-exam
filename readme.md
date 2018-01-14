@@ -15,6 +15,7 @@ The student, on their own, is able to:
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
      -  Filtering
+     	[Find it here](http://zetcode.com/articles/javafilterlist)
      -  Finding elements or index
      -  Generating lists
      -  Checking mutiple values and counting
@@ -22,12 +23,14 @@ The student, on their own, is able to:
  -  Use object orientation:
      -  Create and inherit classes including fields and methods on a given specification
      -  Understanding the difference between classes and objects
+     [Find it here](https://docs.google.com/document/d/1IDDy5g9eX0bp1UqqqICwZwJE7IEsiRWMQtCbZPldUf0/edit#)
      -  Instantiating and using objects
      -  Understanding "this" keyword
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
  -  Write unit tests for functions and methods
+ 	[Find it here](https://github.com/greenfox-academy/tothmalex/blob/master/week-04/day-03/test/CountLettersTest.java)
 
 
 
@@ -187,5 +190,5 @@ The student, on their own, is able to:
  -  Rich DOM manipulation
  -  Handle Authentication
 
-[Find my profile here](https://github.com/tothmalex/final-exam.git)
+[Find my profile here](https://github.com/tothmalex)
 
