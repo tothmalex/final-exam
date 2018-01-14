@@ -169,8 +169,8 @@ The student, on their own, is able to:
 ### Desktop
  
 Requirements: 
-	-  fajlkezeles/mappabejaras/pathkezeles desktop appal
-	-  multiplatform fejlesztes
+ -  fajlkezeles/mappabejaras/pathkezeles desktop appal
+ -  multiplatform fejlesztes
 	-  kommunikalas backenddel
 	-  clean architecture (kulon business logic es external servicek hasznalata, adapterek, kontrollerek)
 	-  config file hasznalat, miert jo
