@@ -166,52 +166,20 @@ The student, on their own, is able to:
 
 **Choose one from below:**
 
-### Backend
+### Desktop
 
- -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
-     -  Determining the calling order in nested callbacks
- -  Authentication:
-     -  Handle authentication
-     -  Handle token based authorization
- -  Database
-     - Using complex data structures
-     - Understanding and using table connections
-     - Understanding migration 
+-fajlkezeles/mappabejaras/pathkezeles desktop appal
+-multiplatform fejlesztes
+-kommunikalas backenddel
+-clean architecture (kulon business logic es external servicek hasznalata, adapterek, kontrollerek)
+-config file hasznalat, miert jo
+-advanced exception handling (a user ne lassa ha megdoglik az app)
+-logolas, hibafeltaras log alapjan
+-commit hookok
+-deployment and project update/upgrade (pip)
 
-### Fullstack
 
- -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
-     -  Determining the calling order in nested callbacks
- -  Understanding and using rich web application framework:
-     -  Components, configuration, dependencies, extensions
-     -  Handle Authentication
 
-### Mobile
-
- -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
- -  Understanding and using mobile framework:
-     -  Components, configuration, dependencies, extensions
- -  Designing multiple screens
- -  Handling authorized communication with backend
-
-### DevOps
-
- -  Understanding the purpose of Docker containers
- -  Understanding the purpose and mechanism of monitoring tools
- -  AWS
-     -  Difference between EC2 and EBS
-     -  Purpose of S3
-
-### Frontend
-
- -  Understanding frontend framework:
-     -  Components, configuration, dependencies, extensions, routing
-     -  Reusable components and screen parts
- -  Rich DOM manipulation
- -  Handle Authentication
 
 [Find my profile here](https://github.com/tothmalex)
 
