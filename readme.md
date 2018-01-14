@@ -167,16 +167,17 @@ The student, on their own, is able to:
 **Choose one from below:**
 
 ### Desktop
-
--fajlkezeles/mappabejaras/pathkezeles desktop appal
--multiplatform fejlesztes
--kommunikalas backenddel
--clean architecture (kulon business logic es external servicek hasznalata, adapterek, kontrollerek)
--config file hasznalat, miert jo
--advanced exception handling (a user ne lassa ha megdoglik az app)
--logolas, hibafeltaras log alapjan
--commit hookok
--deployment and project update/upgrade (pip)
+ 
+Requirements: 
+	- fajlkezeles/mappabejaras/pathkezeles desktop appal
+	- multiplatform fejlesztes
+	- kommunikalas backenddel
+	- clean architecture (kulon business logic es external servicek hasznalata, adapterek, kontrollerek)
+	- config file hasznalat, miert jo
+	- advanced exception handling (a user ne lassa ha megdoglik az app)
+	- logolas, hibafeltaras log alapjan
+	- commit hookok
+	- deployment and project update/upgrade (pip)
 
 
 
