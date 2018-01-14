@@ -64,7 +64,7 @@ The student, on their own, is able to:
 
 - use build tools to build and run your applications e.g. gradle/.Net CLI 
  [Find it here](https://github.com/greenfox-academy/tothmalex/blob/master/week-08/day-02/build.gradle)
-- dependency definition (Tyhmeleaf, Devtools, Lombok, JPA, MySql, PostgreSQL)
+- dependency definition (Tyhmeleaf, Devtools, Lombok, H2 database, JPA, MySql, PostgreSQL)
 - able to restore 3rd party library dependencies
 
 ## 3rd party libraries
@@ -82,6 +82,7 @@ The student, on their own, is able to:
 - using a templating system e.g. Thymeleaf/Razor Pages
 - able to use the framework's special Dependency Injection system
 - usage of the framework's IoC container
+ [Find it here](https://www.tutorialspoint.com/spring/spring_ioc_containers.htm)
 - able to alter basic configurations
 - understanding the flow of HTTP
 
@@ -91,8 +92,11 @@ The student, on their own, is able to:
   - `select`, `insert`, `update`, `delete`
 - connecting database to backend application
   - database framework configuration
+  [Find it here](https://github.com/tothmalex/pallida-orientation-exam/blob/master/exam/src/main/resources/application.properties)
 - understanding Object Relational Mapping
   - with using library: JPA/EF Core
+  [Find it here principles](https://github.com/tothmalex/pallida-orientation-exam/blob/master/exam/src/main/java/com/greenfox/exam/model/Car.java)
+  [Find it here](https://github.com/tothmalex/pallida-orientation-exam/blob/master/exam/src/main/java/com/greenfox/exam/repository/CarRepo.java)
 - connection between:
   - tables and classes
   - records and objects
@@ -108,6 +112,7 @@ The student, on their own, is able to:
   - Response
   - methods
 - headers
+- 
 - body
 - templates
 
