@@ -7,7 +7,7 @@ The student, on their own, is able to:
  -  Use the command line:
      -  Traversing directories
      -  Moving, copying, creating, deleting files
-     -  Passing command line arguments to commands
+     -  Passing command line arguments to commands (javac Arguments.java then Arguments.java 12) 
  -  Use git:
      -  Commit, add, push, pull
      -  Review other's code
@@ -49,19 +49,22 @@ The student, on their own, is able to:
 
 - usage of interfaces and abstract classes
 - understanding the difference between interfaces and abstract classes
-	[Find it here](https://docs.google.com/document/d/1IDDy5g9eX0bp1UqqqICwZwJE7IEsiRWMQtCbZPldUf0)
+	[Find it here](http://codeofdoom.com/wordpress/2009/02/12/learn-this-when-to-use-an-abstract-class-and-an-interface/)
 - understand when to use interface and when to use super class
+	[Find it here](https://github.com/greenfox-academy/tothmalex/blob/master/week-05/day-05/src/Candy.java)
 
 ## Queries
 
-- usage of language integrated quaries e.g. LINQ/StreamApi
+- usage of language integrated queries e.g. LINQ/StreamApi
+	[Find it here](http://www.java2s.com/Tutorials/Java_Streams/java.util.stream/Stream/Stream_generate_Supplier_s_example.htm)
 - understanding the syntax
 - able to write simple custom quaries
 
 ## Build tool
 
 - use build tools to build and run your applications e.g. gradle/.Net CLI 
-- dependency definition
+ [Find it here](https://github.com/greenfox-academy/tothmalex/blob/master/week-08/day-02/build.gradle)
+- dependency definition (Tyhmeleaf, Devtools, Lombok, JPA, MySql, PostgreSQL)
 - able to restore 3rd party library dependencies
 
 ## 3rd party libraries
