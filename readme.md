@@ -1,4 +1,4 @@
-# FOUNDATION
+# Foundation
 
 ## Skills
 
@@ -151,6 +151,7 @@ The student, on their own, is able to:
      -  Resolving a simple merge conflict
      -  Creating a pull request
  -  Understand API documentation
+ 	[Find short desc](https://scottbarstow.com/apis-the-magic-fairy-dust-inside-your-app/)
  -  Understand token based authorization
  -  Refactor code:
      -  Create meaningful names for methods, classes and variables
@@ -171,14 +172,13 @@ The student, on their own, is able to:
 Requirements: 
  -  fajlkezeles/mappabejaras/pathkezeles desktop appal
  -  multiplatform fejlesztes
-	-  kommunikalas backenddel
-	-  clean architecture (kulon business logic es external servicek hasznalata, adapterek, kontrollerek)
-	-  config file hasznalat, miert jo
-	-  advanced exception handling (a user ne lassa ha megdoglik az app)
-	-  logolas, hibafeltaras log alapjan
-	-  commit hookok
-	-  deployment and project update/upgrade (pip)
-
+ -  kommunikalas backenddel
+ -  clean architecture (kulon business logic es external servicek hasznalata, adapterek, kontrollerek)
+ -  config file hasznalat, miert jo
+ -  advanced exception handling (a user ne lassa ha megdoglik az app)
+ -  logolas, hibafeltaras log alapjan
+ -  commit hookok
+ -  deployment and project update/upgrade (pip)
 
 
 
