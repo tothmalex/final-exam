@@ -152,6 +152,7 @@ The student, on their own, is able to:
      -  Creating a pull request
  -  Understand API documentation
  	[Find short desc](https://scottbarstow.com/apis-the-magic-fairy-dust-inside-your-app/)
+	[#2](https://scottbarstow.com/apis-how-to-read-and-understand-documentation/)
  -  Understand token based authorization
  -  Refactor code:
      -  Create meaningful names for methods, classes and variables
