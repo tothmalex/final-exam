@@ -105,29 +105,34 @@ The student, on their own, is able to:
 ## Web backend
 
 - domain
+  [Find it here](https://www.computerhope.com/jargon/d/domain.htm)
 - parts of the URL
 - endpoint
 - HTTP
+[Find it here](http://www.baeldung.com/spring-requestmapping)
   - Requests
   - Response
   - methods
 - headers
-- 
 - body
 - templates
+[Find them here](https://www.tutorialspoint.com/http/http_messages.htm)
 
 ### REST Web backend
 
 - understand what is an API and can use it
 - use JSON objects
 - understand the concept of serialization
+ [Find it here](https://www.tutorialspoint.com/java/java_serialization.htm)
 - able to use Postman
 
 ## Endpoint tests
 
 - able to make difference between unit test and integration test
+[Find it here](https://www.typemock.com/unit-tests-integration-tests)
 - create endpoint test
   - with the help of a mock server
+[Find examples here](https://github.com/greenfox-academy/tothmalex/blob/master/week-09/day-02/frontend/src/test/java/com/greenfox/frontend/FrontendApplicationTests.java)
 
 
 # Final exam requirements
